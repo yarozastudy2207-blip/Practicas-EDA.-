@@ -1,4 +1,4 @@
-#
+
 void menu() {
     float mat[3][MAX_PRODUCTS]; // Matrix to store product information (price, stock, cart quantity)
     char productNames[MAX_PRODUCTS][20]; // Array to store product names
@@ -57,4 +57,6 @@ void menu() {
             }
         }
     }
-}
+
+}   
+
